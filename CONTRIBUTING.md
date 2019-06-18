@@ -27,7 +27,7 @@ Do not add your issue as a comment to an existing issue unless it's for the iden
 
 The more information you can provide, the more likely someone will be successful at reproducing the issue and finding a fix.
 
-Please include the following with each issue:
+Please include the following with each isse:
 
 * Version of nuclear (written under the main logo) 
 
